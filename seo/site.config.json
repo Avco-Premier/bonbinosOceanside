@@ -1,0 +1,16 @@
+{
+  "public_domain": "bonbinoslawson.com",
+  "order_url": "https://bonbinospizza-oceanside.direct-ordering.com/order-now",
+  "restaurant_name": "Bonbino's Pizzeria",
+  "address": {
+    "streetAddress": "3111 Lawson Blvd",
+    "addressLocality": "Oceanside",
+    "addressRegion": "NY",
+    "postalCode": "11572",
+    "addressCountry": "US"
+  },
+  "phone": "+15165942900",
+  "served_areas": ["Oceanside, NY"],
+  "_needs_confirmation": true,
+  "_note": "site.config.json did not exist prior to this run; drafted from index.html/CNAME content only (public_domain, order_url, address, phone are directly sourced and high-confidence). served_areas inferred solely from the single storefront address since no other areas are mentioned anywhere in the site; please confirm this is the full/correct served-area list before relying on it for future location-page decisions."
+}
